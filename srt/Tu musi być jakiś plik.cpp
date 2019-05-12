@@ -1,1 +1,0 @@
-//Test dzialania commitu (tekst przykladowy)
