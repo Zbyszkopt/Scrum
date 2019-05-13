@@ -1,11 +1,1 @@
-﻿  Collision.cpp
-  ECS.cpp
-  game.cpp
-  GameObject.cpp
-  main.cpp
-  Map.cpp
-  TextureMenager.cpp
-  Vector2D.cpp
-  Generowanie kodu...
-  LINK : nie znaleziono elementu D:\Git Repos\Scrum\GameEngine\Debug\GameEngine.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
-  GameEngine.vcxproj -> D:\Git Repos\Scrum\GameEngine\Debug\GameEngine.exe
+﻿  GameEngine.vcxproj -> D:\Git Repos\Scrum\GameEngine\Debug\GameEngine.exe
