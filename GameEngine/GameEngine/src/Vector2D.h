@@ -30,4 +30,4 @@ public:
 
 	friend std::ostream& operator<<(std::ostream& stream, const Vector2D& vec);
 
-}; #pragma once
+}; 
